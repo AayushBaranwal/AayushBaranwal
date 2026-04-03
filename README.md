@@ -21,7 +21,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*9zq3F2k0v9c6U9R1yXK0lA.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="320"/>
 
 </td>
 </tr>
