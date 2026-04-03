@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Baranwal</h1>
 <h3 align="center">Java Full Stack & MERN Stack Developer | Building Scalable Applications</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ## 👨‍💻 About Me
 
@@ -15,7 +17,15 @@
 - 🤝 Comfortable working in **team environments & Agile workflows**  
 - 🔎 Actively looking for **Software Developer / Full Stack Developer roles**
 
----
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*9zq3F2k0v9c6U9R1yXK0lA.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Top Skills
 
