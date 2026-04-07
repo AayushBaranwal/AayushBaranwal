@@ -73,8 +73,6 @@
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%">
@@ -151,16 +149,6 @@
 </a>
 </div>
 
-
----
-
-<div align="center">
-<a href="https://github.com/AayushBaranwal?tab=repositories">
-<img src="https://img.shields.io/badge/View%20More%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-
----
 
 ## 📊 GitHub Stats
 
