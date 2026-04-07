@@ -73,41 +73,84 @@
 
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📦 Inventory Management System</h3>
+<h3 align="center">💼 Employee Management System</h3>
 <div align="center">
-<a href="YOUR_GITHUB_LINK_HERE" target="_blank">
+<a href="https://github.com/AayushBaranwal/Employee-management-system" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p><strong>Java, Spring Boot, MySQL</strong><br/>Full-stack system with CRUD & database integration</p>
+<p><strong>Java</strong><br/>Employee management system with backend logic & CRUD operations</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">🌐 MERN Stack App</h3>
+<h3 align="center">🏋️ Gym Time</h3>
 <div align="center">
-<a href="YOUR_GITHUB_LINK_HERE" target="_blank">
+<a href="https://github.com/AayushBaranwal/Gym-Time" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project-4EC9B0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p><strong>MongoDB, Express, React, Node</strong><br/>Full-stack app with authentication & APIs</p>
+<p><strong>HTML, CSS</strong><br/>Responsive gym website UI with clean design</p>
 </div>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">💬 Chat Messaging App</h3>
+<h3 align="center">💱 Currency Converter</h3>
 <div align="center">
-<a href="YOUR_GITHUB_LINK_HERE" target="_blank">
+<a href="https://github.com/AayushBaranwal/currency-convertor" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project-FFD93D?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<p><strong>Android, Firebase</strong><br/>Real-time chat with authentication</p>
+<p><strong>JavaScript</strong><br/>Real-time currency conversion web application</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🌐 Portfolio Website</h3>
+<div align="center">
+<a href="https://github.com/AayushBaranwal/my-portfolio" target="_blank">
+<img src="https://img.shields.io/badge/View%20Project-A367B1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<p><strong>HTML, CSS</strong><br/>Personal portfolio showcasing skills & projects</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">📝 Task Manager</h3>
+<div align="center">
+<a href="https://github.com/AayushBaranwal/Task-Manager" target="_blank">
+<img src="https://img.shields.io/badge/View%20Project-FF8787?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<p><strong>Node.js, JavaScript</strong><br/>Task management app with backend logic</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">📢 Webinar Landing Page</h3>
+<div align="center">
+<a href="https://github.com/AayushBaranwal/Webianar-Landing_Page" target="_blank">
+<img src="https://img.shields.io/badge/View%20Project-6BCB77?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<p><strong>JavaScript</strong><br/>Conversion-focused landing page for webinars</p>
 </div>
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+<a href="https://github.com/AayushBaranwal?tab=repositories">
+<img src="https://img.shields.io/badge/View%20More%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
 
 ---
 
