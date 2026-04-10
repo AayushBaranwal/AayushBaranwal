@@ -73,20 +73,11 @@
 
 # 🚀 Production-Ready Projects ⭐
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">💼 Employee Management System</h3>
-<div align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Employee+Management" width="100%"/>
-<br/><br/>
-<a href="https://github.com/AayushBaranwal/Employee-management-system" target="_blank">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-<p><strong>Java, Spring Boot</strong><br/>Full-stack employee system with CRUD operations & backend architecture</p>
-</td>
+# 🚀 Production-Ready Projects ⭐
 
+<table>
+
+<tr>
 <td width="50%">
 <h3 align="center">🚀 Smart Task Manager SAAS</h3>
 <div align="center">
@@ -99,9 +90,23 @@
 <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </div>
-<p><strong>MERN Stack</strong><br/>Production-ready SAAS task manager with authentication, dashboard & real-time task management</p>
+<p><strong>MERN Stack</strong><br/>Production-ready SAAS task manager with authentication, dashboard & real-time features</p>
 </td>
 
+<td width="50%">
+<h3 align="center">💼 Employee Management System</h3>
+<div align="center">
+<img src="https://via.placeholder.com/400x200.png?text=Employee+Management" width="100%"/>
+<br/><br/>
+<a href="https://github.com/AayushBaranwal/Employee-management-system" target="_blank">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+<p><strong>Java, Spring Boot</strong><br/>Full-stack employee system with CRUD operations & backend architecture</p>
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 <h3 align="center">🌐 Portfolio Website</h3>
 <div align="center">
@@ -116,8 +121,21 @@
 </div>
 <p><strong>HTML, CSS</strong><br/>Personal portfolio with responsive design</p>
 </td>
+
+<td width="50%">
+<h3 align="center">📝 Task Manager API</h3>
+<div align="center">
+<img src="https://via.placeholder.com/400x200.png?text=Task+Manager" width="100%"/>
+<br/><br/>
+<a href="https://github.com/AayushBaranwal/Task-Manager" target="_blank">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+<p><strong>Node.js</strong><br/>Backend task management system with REST APIs</p>
+</td>
 </tr>
 
+<tr>
 <td width="50%">
 <h3 align="center">🏋️ Gym Time Website</h3>
 <div align="center">
@@ -129,9 +147,7 @@
 </div>
 <p><strong>HTML, CSS</strong><br/>Modern responsive UI for fitness website</p>
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 <h3 align="center">💱 Currency Converter App</h3>
 <div align="center">
@@ -143,12 +159,9 @@
 </div>
 <p><strong>JavaScript</strong><br/>Real-time currency conversion with API integration</p>
 </td>
+</tr>
 
-
-
-
-
-
+<tr>
 <td width="50%">
 <h3 align="center">📢 Webinar Landing Page</h3>
 <div align="center">
@@ -160,8 +173,19 @@
 </div>
 <p><strong>JavaScript</strong><br/>Conversion-focused landing page for webinar funnel</p>
 </td>
+
+<td></td>
 </tr>
+
 </table>
+
+---
+
+<div align="center">
+<a href="https://github.com/AayushBaranwal?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
 
 ---
 
