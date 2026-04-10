@@ -129,18 +129,21 @@
 </td>
 </tr>
 
-<tr>
 <td width="50%">
-<h3 align="center">📝 Task Manager API</h3>
+<h3 align="center">🚀 Smart Task Manager SAAS</h3>
 <div align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Task+Manager" width="100%"/>
+<img src="https://via.placeholder.com/400x200.png?text=Smart+Task+Manager+SAAS" width="100%"/>
 <br/><br/>
-<a href="https://github.com/AayushBaranwal/Task-Manager" target="_blank">
+<a href="https://github.com/AayushBaranwal/Smart-Task-Manager-SAAS" target="_blank">
 <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://smart-task-manager-saas.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </div>
-<p><strong>Node.js</strong><br/>Backend task management system with REST APIs</p>
+<p><strong>MERN Stack</strong><br/>Production-ready SAAS task manager with authentication, dashboard & real-time task management</p>
 </td>
+
 
 <td width="50%">
 <h3 align="center">📢 Webinar Landing Page</h3>
