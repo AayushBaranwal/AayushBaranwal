@@ -73,8 +73,6 @@
 
 # 🚀 Production-Ready Projects ⭐
 
-# 🚀 Production-Ready Projects ⭐
-
 <table>
 
 <tr>
@@ -187,13 +185,7 @@
 </a>
 </div>
 
----
-
-<div align="center">
-<a href="https://github.com/AayushBaranwal?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
+----
 
 
 
