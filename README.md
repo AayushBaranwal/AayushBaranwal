@@ -88,6 +88,37 @@
 </td>
 
 <td width="50%">
+<h3 align="center">🚀 Smart Task Manager SAAS</h3>
+<div align="center">
+<img src="https://via.placeholder.com/400x200.png?text=Smart+Task+Manager+SAAS" width="100%"/>
+<br/><br/>
+<a href="https://github.com/AayushBaranwal/Smart-Task-Manager-SAAS" target="_blank">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://smart-task-manager-saas.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</div>
+<p><strong>MERN Stack</strong><br/>Production-ready SAAS task manager with authentication, dashboard & real-time task management</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🌐 Portfolio Website</h3>
+<div align="center">
+<img src="https://via.placeholder.com/400x200.png?text=Portfolio" width="100%"/>
+<br/><br/>
+<a href="https://github.com/AayushBaranwal/my-portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://aayushbaranwal.github.io/my-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</div>
+<p><strong>HTML, CSS</strong><br/>Personal portfolio with responsive design</p>
+</td>
+</tr>
+
+<td width="50%">
 <h3 align="center">🏋️ Gym Time Website</h3>
 <div align="center">
 <img src="https://via.placeholder.com/400x200.png?text=Gym+Website" width="100%"/>
@@ -113,36 +144,9 @@
 <p><strong>JavaScript</strong><br/>Real-time currency conversion with API integration</p>
 </td>
 
-<td width="50%">
-<h3 align="center">🌐 Portfolio Website</h3>
-<div align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Portfolio" width="100%"/>
-<br/><br/>
-<a href="https://github.com/AayushBaranwal/my-portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://aayushbaranwal.github.io/my-portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</div>
-<p><strong>HTML, CSS</strong><br/>Personal portfolio with responsive design</p>
-</td>
-</tr>
 
-<td width="50%">
-<h3 align="center">🚀 Smart Task Manager SAAS</h3>
-<div align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Smart+Task+Manager+SAAS" width="100%"/>
-<br/><br/>
-<a href="https://github.com/AayushBaranwal/Smart-Task-Manager-SAAS" target="_blank">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://smart-task-manager-saas.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</div>
-<p><strong>MERN Stack</strong><br/>Production-ready SAAS task manager with authentication, dashboard & real-time task management</p>
-</td>
+
+
 
 
 <td width="50%">
